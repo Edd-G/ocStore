@@ -56,3 +56,7 @@
 
 # IDE Project files
 /.idea
+
+# Other local files
+.directory
+.orig
