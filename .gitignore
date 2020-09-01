@@ -60,3 +60,6 @@
 # Other local files
 .directory
 .orig
+
+# Moved system storage directory
+/storage/*
